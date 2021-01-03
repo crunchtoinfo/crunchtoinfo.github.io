@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Statement
+title: Statement
 permalink: /statement/
 ---
 
